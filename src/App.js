@@ -19,6 +19,7 @@ class App extends Component {
         <ContactUs resumeData={resumeData}/>
         <Footer resumeData={resumeData}/>
       </div>
+      
     );
   }
 }
